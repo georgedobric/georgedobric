@@ -55,8 +55,6 @@
 <li> Video: https://www.youtube.com/watch?v=wQoaa9otYmA </li>
 </ul>
 
-
-
 ---
 
 ## 🔧 Tech I’m Using
@@ -86,14 +84,6 @@
   <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/george-dobric-58a994193/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=georgedobric&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgedobric&layout=compact&theme=tokyonight" />
 </p>
 
 ---
