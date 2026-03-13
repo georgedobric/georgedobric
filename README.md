@@ -32,6 +32,31 @@
 <li>  Video: https://www.youtube.com/watch?v=ALBBIoRDGy0 </li>
 </ul>
 
+---
+
+## 👋 Smart Thermostat using the DE10 Lite
+<p align="center">
+  <img src="/de10-lite-smart-thermostat.gif" width="600" alt="Project Demo GIF">
+</p>
+<ul align="center">
+<li> Objective: To create an accessible thermostat </li>
+<li> Functionality: </li>
+  <ul>
+    <li> Raise and lower the set temperature by waving your hand over the ultrasonic sensors </li>
+    <li> Read the ambient temperature from the DHT11 sensor and pass the 8-bit value to the DE10 Lite </li>
+    <li> Flame detection </li>
+    <li> Heating/Cooling indicator </li>
+  </ul>
+<li> Future Development: </li>
+  <ul>
+   <li>  To activate a Motor representing an AHU </li>
+   <li>  To create an LED system representing hot/cold refrigerant </li>
+  </ul>
+<li> Video: https://www.youtube.com/watch?v=wQoaa9otYmA </li>
+</ul>
+
+---
+
 ## 🔧 Tech I’m Using
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
