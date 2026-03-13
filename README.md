@@ -81,7 +81,7 @@
 
 ## 📫 How to Reach Me
 <p>
-  <a href="[LinkedIn](https://www.linkedin.com/in/george-dobric-58a994193/)">
+  <a href="https://www.linkedin.com/in/george-dobric-58a994193/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
