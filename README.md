@@ -57,6 +57,23 @@
 
 ---
 
+## ✨ Haptic Text-to-Braille Accessibility Glove (Arduino)
+<p align="center">
+  <img src="/haptic-accessibility-glove-arduino.gif" width="300" alt="Project Demo GIF">
+</p>
+<ul align="center">
+<li> Objective: To convert text to haptic brailled</li>
+<li> Functionality: </li>
+  <ul>
+    <li> Point a camera on text </li>
+    <li> The text is recognized using Python </li>
+    <li> Braille haptic feedback on glove </li>
+  </ul>
+<li> Video: https://www.youtube.com/watch?v=KfO8qEYxxB8 </li>
+</ul>
+
+---
+
 ## 🔧 Tech I’m Using
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
