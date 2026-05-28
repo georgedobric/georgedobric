@@ -9,31 +9,6 @@
 
 ---
 
-## 👨‍💻 Check out my React JS Project Management App
-<p align="center">
-  <img src="/React-JS-Project-Management-App.gif" width="600" alt="Project Demo GIF">
-</p>
-<ul align="center">
-<li>  Objective: To create an intuitive hierarchical project management system with drag-drop funcitonality </li>
-<li> Functionality: </li>
-  <ul>
-    <li> 'Job' component to encompass projects </li>
-    <li> 'Node' component to encompass project deliverables</li>
-    <li> Drag-drop hierarchy reorder functionality for node components </li>
-    <li> Node info assignment and node objective preview upon mouse hover </li>
-  </ul>
-<li>  Future Development: </li>
-  <ul>
-    <li>     To develop a backend to store data using node.js </li>
-    <li>     To allow for screenshots to be uploaded </li>
-    <li>     To allow for user registration </li>
-    <li>     To create a message log for each task </li>
-  </ul>
-<li>  Video: https://www.youtube.com/watch?v=ALBBIoRDGy0 </li>
-</ul>
-
----
-
 ## 👋 Smart Thermostat using the DE10 Lite
 <p align="center">
   <img src="/de10-lite-smart-thermostat.gif" width="600" alt="Project Demo GIF">
@@ -74,6 +49,44 @@
 
 ---
 
+## ⏳ Multi-Stage Digital Counter Breadboard Circuit
+<p align="center">
+  <img src="/Multi-Stage_Digital_Counter.gif" width="600" alt="Project Demo GIF">
+</p>
+<ul align="center">
+<li> Objective: To create a 0-19 digital counter </li>
+<li> Functionality: </li>
+  <ul>
+    <li> Automatic clock source using a Schmitt trigger and RC oscillator circuit </li>
+    <li> Custom asynchronous reset </li>
+    <li> Sequential and combinational logic </li>
+  </ul>
+<li> Video: https://www.youtube.com/watch?v=vMMwajK--mQ </li>
+</ul>
+---
+
+## 👨‍💻 Check out my React JS Project Management App
+<p align="center">
+  <img src="/React-JS-Project-Management-App.gif" width="600" alt="Project Demo GIF">
+</p>
+<ul align="center">
+<li>  Objective: To create an intuitive hierarchical project management system with drag-drop funcitonality </li>
+<li> Functionality: </li>
+  <ul>
+    <li> 'Job' component to encompass projects </li>
+    <li> 'Node' component to encompass project deliverables</li>
+    <li> Drag-drop hierarchy reorder functionality for node components </li>
+    <li> Node info assignment and node objective preview upon mouse hover </li>
+  </ul>
+<li>  Future Development: </li>
+  <ul>
+    <li>     To develop a backend to store data using node.js </li>
+    <li>     To allow for screenshots to be uploaded </li>
+    <li>     To allow for user registration </li>
+    <li>     To create a message log for each task </li>
+  </ul>
+<li>  Video: https://www.youtube.com/watch?v=ALBBIoRDGy0 </li>
+</ul>
 ## 🔧 Tech I’m Using
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
