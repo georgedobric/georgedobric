@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20GEORGE!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-<h3 align="center">🚀 Third-Year EE Student with SAP ABAP Consulting Experience </h3>
+<h3 align="center">🚀 Fourth-Year EE Student </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=georgedobric&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -84,15 +84,8 @@
 
 ---
 
-## 💬 Ask Me About
-- Heaviside, Steinmetz, Tesla
-- SAP ABAP
-- Digital Minimalism
-
----
-
 ## 🚀 Currently Working On
-- 🔹 Mechatronic Accessibility-Based Systems
+- 🔹 Researching heat transport by performing measurements with a frequency-domain thermoreflectance (FDTR) system, for the purpose of advancing understanding of anisotropic heat transport in layered crystals.
 
 ---
 
